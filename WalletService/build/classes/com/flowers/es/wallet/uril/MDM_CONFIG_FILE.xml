@@ -1,0 +1,15 @@
+<ROOTCONFIG>
+	<RELOAD_INTERVAL>30</RELOAD_INTERVAL>	
+	<MDM_LOG_FLIE><![CDATA[/app1/rtopuser/mdmjson/config/mdmServicelog.xml]]></MDM_LOG_FLIE>
+	<MOBILE_CC_KEY><![CDATA[18F-SuperSekritKeyValue!]]></MOBILE_CC_KEY>
+	<W0093_CC_KEY><![CDATA[18F-SuperSekritMobi1eKe!]]></W0093_CC_KEY>
+	<W0050_CC_KEY><![CDATA[18F-SuperSekritAgent1Ke!]]></W0050_CC_KEY>
+	<W0097_CC_KEY><![CDATA[18F-SuperSekritSki11Inf!]]></W0097_CC_KEY>
+	<W0066_CC_KEY><![CDATA[18F-SuperSekritPwam0vKe!]]></W0066_CC_KEY>
+	<VALID_SOURCE_IDS><![CDATA[W0093,W0050,W0097,W0066]]></VALID_SOURCE_IDS>
+	<MDM_PARTY_BUS_SER_URL><![CDATA[http://10.201.44.87:7800/PartyWS_HTTPRouter/services/PartyBusinessPort]]></MDM_PARTY_BUS_SER_URL>
+	<MDM_PARTY_SER_URL><![CDATA[http://10.201.44.87:7801/PartyWS_HTTPRouter/services/PartyPort]]></MDM_PARTY_SER_URL>
+	<MDM_FLWS_SER_URL><![CDATA[http://10.201.44.87:7802/FlrsExtensionsWS_HTTPRouter/services/FlrsCompositeTxnPort]]></MDM_FLWS_SER_URL>
+	<ERROR_CODE_400_TEXT><![CDATA[A JSON parsing error has occurred whilst parsing the JSON document,,,,400 test message1,,,,400 message 2]]></ERROR_CODE_400_TEXT>
+	<CC_CRYPTO_ACTIVE>TRUE</CC_CRYPTO_ACTIVE>
+</ROOTCONFIG>
